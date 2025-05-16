@@ -6,7 +6,7 @@
 }
 
 .flex-container {
-    display: flec;
+    display: flex;
     justify-content: space-arround;
     align-items: center;
 }
